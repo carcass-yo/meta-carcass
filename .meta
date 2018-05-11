@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "carcass-generator": "git@github.com:carcass-yo/carcass-generator.git",
+    "generator-carcass-base": "git@github.com:carcass-yo/generator-carcass-base.git",
+    "generator-carcass-keystone": "git@github.com:carcass-yo/generator-carcass-keystone.git"
+  }
+}

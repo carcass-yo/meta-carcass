@@ -1,0 +1,21 @@
+{
+  "name": "meta-carcass",
+  "author": {
+    "name": "Constantine Karnaukhov",
+    "email": "genteelknight@gmail.com"
+  },
+  "private": true,
+  "license": "UNLICENSED",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^4.1.0",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.10.0"
+  },
+  "scripts": {
+    "start": "echo \"Error: no start script specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "npm run lint:eslint",
+    "lint:eslint": "eslint './**/*.js' --ignore-pattern node_modules"
+  }
+}
